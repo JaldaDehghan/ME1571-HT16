@@ -50,6 +50,9 @@ Exempel på körning:
 
 
 ## pirate lang
+
+_gör gärna flera script för följande övningar_
+
 - låt användaren mata in valfritt antal meningar. Gör om meningarna till rövarspråket.
 - spara till meningarna till en fil, en mening per rad.
 
