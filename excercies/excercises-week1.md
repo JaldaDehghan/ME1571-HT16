@@ -41,3 +41,20 @@ Exempel på körning:
 
 
 
+## pirate lang
+- låt användaren mata in valfritt antal meningar. Gör om meningarna till rövarspråket.
+- spara till meningarna till en fil, en mening per rad.
+
+**read pirate lang**
+- Skapa en ny modul som ska kunna öppna en redan sparad fil och visa innehållet.
+- Denna modul ska kunna omvandla, filer med rövarspråket, till ‘vanligt språk’ igen.
+
+
+**pirate extravagnza** 
+- Knyt ihop allt, med ett script som importerar alla tidigare moduler. Använd __init__ == “__main__”
+  Det hela ska bli en körbar ‘liten’ applikation.
+
+**pirate doc**
+- Dokumentera allt med giltiga ‘python’-kommentarer samt docstrings.
+- Se t ex http://www.pythonforbeginners.com/basics/python-docstrings/
+
