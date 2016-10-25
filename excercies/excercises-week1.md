@@ -9,5 +9,6 @@
 
 
 *Ditt script ska kunna skriva ut svar på följande frågor:*
+
 1. hur många dagar har du levt? Hur många timmar? 
 2. Vilket datum är det om 1000 dagar? 
