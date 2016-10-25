@@ -24,9 +24,14 @@ _Använd_ `__name__ == “__main__”` _i ditt script_
 - Gör en funktion.
 
 Exempel på körning:
+
 Mac/Linux: `$ ./age1.py 1000`
+
 Win: `C:\python age1.py 1000`
+
 `date in 1000 days 2016-07-15 13:15:58.390970`
+
+
 
 - om scriptet körs med 3 argument, printa tiden i dagar från datumet
 - Gör en ny funktion.
