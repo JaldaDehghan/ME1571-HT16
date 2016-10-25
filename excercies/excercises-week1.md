@@ -8,7 +8,7 @@
 - subtrahera variablerna, till en ny variabel, som kommer att bli ett datetime.timedelta() objekt. Printa den variabeln.
 
 
-*Ditt script ska kunna skriva ut svar på följande frågor:*
+**Ditt script ska kunna skriva ut svar på följande frågor:**
 
 1. hur många dagar har du levt? Hur många timmar? 
 2. Vilket datum är det om 1000 dagar? 
