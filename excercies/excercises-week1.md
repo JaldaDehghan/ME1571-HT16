@@ -38,3 +38,6 @@ Win: `C:\python age1.py 1000`
 
 Exempel på körning:
 `$ ./age1.py 1980 1 8`
+
+
+
