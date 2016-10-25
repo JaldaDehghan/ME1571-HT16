@@ -13,7 +13,11 @@
 1. hur många dagar har du levt? Hur många timmar? 
 2. Vilket datum är det om 1000 dagar? 
 
+
+
 ##
+
+
 
 ## age1.py
 
@@ -38,6 +42,10 @@ Win: `C:\python age1.py 1000`
 
 Exempel på körning:
 `$ ./age1.py 1980 1 8`
+
+
+
+##
 
 
 
