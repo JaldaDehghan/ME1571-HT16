@@ -1,4 +1,4 @@
-# Övningar vecka 1 -2
+# Övningar vecka 1 - 2
 
 ## age.py
  _importera datetime modulen (kolla i dokumentationen)_
