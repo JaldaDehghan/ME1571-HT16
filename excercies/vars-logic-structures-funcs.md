@@ -1,4 +1,4 @@
-# Övningar vecka 1 - 2
+# Övningar variabler, strukturer, logik, funktioner
 
 Övningarna behandlar grundläggande python i form av script, variabler, iput/output, inbyggda datastrukturer,
 operatorer, moduler och funktioner.
