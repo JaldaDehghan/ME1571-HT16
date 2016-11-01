@@ -1,5 +1,8 @@
 # Övningar vecka 1 - 2
 
+Övningarna behandlar grundläggande python i form av script, variabler, iput/output, inbyggda datastrukturer,
+operatorer, moduler och funktioner.
+
 ## age.py
  _importera datetime modulen (kolla i dokumentationen)_
  
