@@ -84,10 +84,11 @@ För att nå upp till följande:
 Övningen är till för att bekanta sig med samt öva på objektorienterad programmering i python. Detta i form av att infoga konceptet arv.
 
 
-tre alternativ för övningen att utgå ifrån;
+alternativ för övningen att utgå ifrån;
 1) utgå ifrån **farme john** och infoga arv i den. Exempelvis låter du djuren ärva från en gemensam klass som beskriver djur i allmänhet - mammals (däggdjur).
 2) skapa en ny egen lösning som innehåller arv.
-3) implementera någon form av polymorfism.
+
++ implementera någon form av polymorfism.
 
 
 
