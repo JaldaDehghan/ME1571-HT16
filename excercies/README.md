@@ -5,5 +5,5 @@
 Tar upp grundläggande python från script, variabler, operatorer, funktioner etc.
 
 ## classes.md
-övningar som kan göras under vecka 3 i kursen.
-Tar upp klassbegreppet och objekt m.m.
+övningar som kan göras under vecka 3-6 i kursen.
+Tar upp klassbegreppet, objekt och arv m.m.
