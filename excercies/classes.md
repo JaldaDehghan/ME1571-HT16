@@ -1,4 +1,4 @@
-# Övningar vecka 3
+# Övningar klasser och objekt
 
 Övningarnas syfte är att du ska bekanta dig med klassbegreppet och objekt, dvs grundläggande OOP i python.
 Detta i form av att skapa klasser med funktioner, variabler etc i, samt att skapa objekt av och mellan klasserna.
