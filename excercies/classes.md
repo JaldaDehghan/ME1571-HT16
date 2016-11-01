@@ -15,6 +15,7 @@ Få med följande:
 - konstruktor
 - nödvändiga funktioner
 - ett script/fil bredvid som skapar objekt av din klass och som använder metoderna.
+- tänk över vilka instansvariabler som behöver vara publika/private - implementera det (och eventuella metoder som då behöver konstrueras).
 
 ## program
 Bygg vidare på ovanstående lösning och implementera;
@@ -24,6 +25,7 @@ Bygg vidare på ovanstående lösning och implementera;
 + lägg till metoder som ger utskriftvänliga versioner av student-, och program-objekt.
 + via ett program-objekt ska man kunna söka efter en student, skriva ut en student och göra det som studentklassen erbjuder.
 + gör ett script bredvid som skapar ett antal program med flera studenter i respektive program.
++ tänk över vilka instansvariabler som behöver vara publika/private - implementera det (och eventuella metoder som då behöver konstrueras).
 
 Om du vill - gör ytterligare en klass som du kallar University. University ska representera en skola med flera program i.
 
@@ -46,7 +48,7 @@ Försök att få med åtminstone:
 + skapa en fil/ett script i vilken programmet startas.
 + programmet ska kunna exekveras utan fel, men du behöver inte ta hänsyn till om en användare matar in ‘fel’ data.
 + programmet ska kunna skriva ut alla användarens bondgårdar med alla djur och djurens attribut.
-
++ tänk över vilka instansvariabler som behöver vara publika/private - implementera det (och eventuella metoder som då behöver konstrueras).
 
 
 ## Soccer
@@ -68,3 +70,32 @@ För att nå upp till följande:
 + skapa en fil/ett script i vilken programmet startas.
 + programmet ska kunna exekveras utan fel, men du behöver inte ta hänsyn till om en användare matar in ‘fel’ data.
 + programmet ska kunna skriva ut alla användarens lag med alla spelare och spelarnas attribut.
++ publika pch privata variabler
+
+
+
+## uml
+Öva på uml klassdiagram genom att skapa komplett klassdiagram dels för övningarna med **student**, **farmer john** och/eller **soccer** (eller liknande). 
+
+
+
+
+## arv - inheritance
+Övningen är till för att bekanta sig med samt öva på objektorienterad programmering i python. Detta i form av att infoga konceptet arv.
+
+
+tre alternativ för övningen att utgå ifrån;
+1) utgå ifrån **farme john** och infoga arv i den. Exempelvis låter du djuren ärva från en gemensam klass som beskriver djur i allmänhet - mammals (däggdjur).
+2) skapa en ny egen lösning som innehåller arv.
+3) implementera någon form av polymorfism.
+
+
+
+
+Försök att få med följande:
++ använd klasser med funktioner, variabler (egenskaper, medlemmar/attribut) och arv i minst en nivå för några av klasserna.
++ skapa klasserna i egna moduler/filer.
++ skapa en fil/ett script i vilken programmet startas.
++ programmet ska kunna exekveras utan fel, ta gärna hänsyn till om en användare matar in ‘fel’ data.
++ programmet ska kunna skriva ut alla objektens attribut.
+
